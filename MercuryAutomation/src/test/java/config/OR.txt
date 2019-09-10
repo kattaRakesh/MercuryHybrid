@@ -3,7 +3,6 @@ usr_name=//input[@name='userName']
 pwd=//input[@name='password']
 btn_LogIn=//input[@name='login']
 
-
 #Home Page Objects
 text_home=//font[contains(text(),'Use our')]
 btn_BusinessSevices=.//*[@title='Show list of business services']/span[text()='Business Services']
